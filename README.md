@@ -15,6 +15,18 @@ It’s designed with simplicity in mind, making it perfect for beginners while s
 
 ✔ Lightweight and easy to understand
 
+### ⚙️ How It Works
+
+The project uses simple lists to simulate monthly sales data:
+
+* x → Months (time axis)
+
+* sales_2024 → Sales data for 2024
+
+* sales_2025 → Sales data for 2025
+
+Using fill_between(), the program shades the area under each dataset, allowing easy comparison between the two years.
+
 ### 📊 Output Description
 - The generated plot will include:
 
